@@ -1,5 +1,5 @@
-import "./style.css";
-import { validateHandler, CloseModal, OpenModal } from "./components/Form/Form";
+import "./style.scss";
+import { validateHandler, CloseModal, OpenModal } from "./components/Form/Form.js";
 
 const modal = document.querySelector(".modal");
 
